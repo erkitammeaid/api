@@ -1,0 +1,18 @@
+body {
+    color: black;
+    font-family: monospace;
+    background-color: rgb(219, 253, 253);
+    line-height: 1.6;
+}
+
+.title{
+    color: rgb(59, 10, 236);
+    font-size: 18px;
+    line-height: 2;
+}
+
+
+
+.description{
+    color: rgb(0, 0, 0);
+}
